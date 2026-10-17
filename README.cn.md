@@ -14,13 +14,13 @@ x install gitweb
 
 ## 代码洞察
 
-合计: **363** 行代码（覆盖前 5 种语言、共 **9** 个文件）。
+合计: **354** 行代码（覆盖前 5 种语言、共 **9** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 336 | 16 | 79 | 4 |
-| Toml | 27 | 0 | 1 | 1 |
-| Markdown | 0 | 238 | 138 | 4 |
+| Rust | 332 | 16 | 77 | 4 |
+| Toml | 22 | 0 | 1 | 1 |
+| Markdown | 0 | 241 | 141 | 4 |
 
 ## OpenSSF Scorecard 评分
 
@@ -39,8 +39,8 @@ x install gitweb
 
 ## 发布
 
-- **最新版本**: `v0.3.5` (2022-03-09)
-- **最近提交**: 2023-01-25
+- **最新版本**: `v0.4.0` (2026-10-16)
+- **最近提交**: 2026-10-16
 - **Release 含资产**: 3 个
 
 ## 流行度
@@ -49,26 +49,26 @@ x install gitweb
 
 ## 累计统计
 
-- **发布数**: 22 · **已合并 PR**: 85 · **开放 PR**: 5 · **已关闭 issue**: 11 · **开放 issue**: 3 · **提交数**: 164
+- **发布数**: 23 · **已合并 PR**: 87 · **开放 PR**: 1 · **已关闭 issue**: 11 · **开放 issue**: 3 · **提交数**: 166
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-17 | 1 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-08-18 | 1 | 2 | 1 | 0 | 0 | 2 |
+| 90d | 2026-07-19 | 1 | 2 | 1 | 0 | 0 | 2 |
+| last180d | 2026-04-20 | 1 | 2 | 1 | 0 | 0 | 2 |
+| 360d | 2025-10-22 | 1 | 2 | 1 | 0 | 0 | 2 |
+| last720d | 2024-10-27 | 1 | 2 | 1 | 0 | 0 | 2 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gitweb-linux](https://github.com/yoannfleurydev/gitweb/releases/download/v0.3.5/gitweb-linux) | 7.7 MiB | `other` |
-| [gitweb-macos](https://github.com/yoannfleurydev/gitweb/releases/download/v0.3.5/gitweb-macos) | 3.8 MiB | `native/darwin/x64` |
-| [gitweb-windows.exe](https://github.com/yoannfleurydev/gitweb/releases/download/v0.3.5/gitweb-windows.exe) | 3.5 MiB | `native/win/x64` |
+| [gitweb-linux](https://github.com/yoannfleurydev/gitweb/releases/download/v0.4.0/gitweb-linux) | 5.2 MiB | `other` |
+| [gitweb-macos](https://github.com/yoannfleurydev/gitweb/releases/download/v0.4.0/gitweb-macos) | 4.2 MiB | `native/darwin/x64` |
+| [gitweb-windows.exe](https://github.com/yoannfleurydev/gitweb/releases/download/v0.4.0/gitweb-windows.exe) | 4.3 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ gitweb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261016.yml` · 2026-10-16T04:29:34Z._
+_数据快照: `data/card/261017.yml` · 2026-10-17T04:18:15Z._

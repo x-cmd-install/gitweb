@@ -14,13 +14,13 @@ x install gitweb
 
 ## Code insight
 
-Total: **363** lines of code across **9** files in the top 5 languages.
+Total: **354** lines of code across **9** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 336 | 16 | 79 | 4 |
-| Toml | 27 | 0 | 1 | 1 |
-| Markdown | 0 | 238 | 138 | 4 |
+| Rust | 332 | 16 | 77 | 4 |
+| Toml | 22 | 0 | 1 | 1 |
+| Markdown | 0 | 241 | 141 | 4 |
 
 ## OpenSSF Scorecard
 
@@ -39,8 +39,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.3.5` (2022-03-09)
-- **Last commit**: 2023-01-25
+- **Latest**: `v0.4.0` (2026-10-16)
+- **Last commit**: 2026-10-16
 - **Assets in release**: 3
 
 ## Popularity
@@ -49,26 +49,26 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 85 · **Open PRs**: 5 · **Closed issues**: 11 · **Open issues**: 3 · **Commits**: 164
+- **Releases**: 23 · **Merged PRs**: 87 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 3 · **Commits**: 166
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-17 | 1 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-08-18 | 1 | 2 | 1 | 0 | 0 | 2 |
+| 90d | 2026-07-19 | 1 | 2 | 1 | 0 | 0 | 2 |
+| last180d | 2026-04-20 | 1 | 2 | 1 | 0 | 0 | 2 |
+| 360d | 2025-10-22 | 1 | 2 | 1 | 0 | 0 | 2 |
+| last720d | 2024-10-27 | 1 | 2 | 1 | 0 | 0 | 2 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gitweb-linux](https://github.com/yoannfleurydev/gitweb/releases/download/v0.3.5/gitweb-linux) | 7.7 MiB | `other` |
-| [gitweb-macos](https://github.com/yoannfleurydev/gitweb/releases/download/v0.3.5/gitweb-macos) | 3.8 MiB | `native/darwin/x64` |
-| [gitweb-windows.exe](https://github.com/yoannfleurydev/gitweb/releases/download/v0.3.5/gitweb-windows.exe) | 3.5 MiB | `native/win/x64` |
+| [gitweb-linux](https://github.com/yoannfleurydev/gitweb/releases/download/v0.4.0/gitweb-linux) | 5.2 MiB | `other` |
+| [gitweb-macos](https://github.com/yoannfleurydev/gitweb/releases/download/v0.4.0/gitweb-macos) | 4.2 MiB | `native/darwin/x64` |
+| [gitweb-windows.exe](https://github.com/yoannfleurydev/gitweb/releases/download/v0.4.0/gitweb-windows.exe) | 4.3 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for gitweb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:29:34Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:18:15Z._
