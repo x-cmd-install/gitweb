@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5462008,
       "digest": "sha256:76552bebbfa4065cb291a5af1263cd3d333764be250a117c700ef5f25c22f008",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-16T13:19:39Z",
       "updated_at": "2026-10-16T13:19:40Z",
       "browser_download_url": "https://github.com/yoannfleurydev/gitweb/releases/download/v0.4.0/gitweb-linux"
