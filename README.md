@@ -40,7 +40,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.6.0` (2026-10-27)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-11-03
 - **Assets in release**: 3
 
 ## Popularity
@@ -49,18 +49,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 92 · **Open PRs**: 1 · **Closed issues**: 14 · **Open issues**: 0 · **Commits**: 173
+- **Releases**: 25 · **Merged PRs**: 93 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 0 · **Commits**: 174
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 7 | 1 | 0 | 0 | 9 |
-| last60d | 2026-09-04 | 3 | 7 | 1 | 0 | 0 | 9 |
-| 90d | 2026-08-05 | 3 | 7 | 1 | 0 | 0 | 9 |
-| last180d | 2026-05-07 | 3 | 7 | 1 | 0 | 0 | 9 |
-| 360d | 2025-11-08 | 3 | 7 | 1 | 0 | 0 | 9 |
-| last720d | 2024-11-13 | 3 | 7 | 1 | 0 | 0 | 9 |
+| 30d | 2026-10-05 | 3 | 8 | 0 | 0 | 0 | 10 |
+| last60d | 2026-09-05 | 3 | 8 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-06 | 3 | 8 | 0 | 0 | 0 | 10 |
+| last180d | 2026-05-08 | 3 | 8 | 0 | 0 | 0 | 10 |
+| 360d | 2025-11-09 | 3 | 8 | 0 | 0 | 0 | 10 |
+| last720d | 2024-11-14 | 3 | 8 | 0 | 0 | 0 | 10 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for gitweb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:38:17Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:18:44Z._
