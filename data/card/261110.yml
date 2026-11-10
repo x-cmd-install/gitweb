@@ -1,0 +1,110 @@
+about:
+  description: "🌲 Open the current remote repository in your browser"
+  license: Apache-2.0
+  homepage: 
+  head: 230ecf8
+  archived: false
+  latestVersion: "v0.6.0"
+  latestRelease: "v0.6.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-10T07:13:43Z
+timeline:
+  created: 2019-01-21
+  lastCommit: 2026-11-03
+  lastVersion: 2026-10-27
+  lastRelease: 2026-10-27
+  lastPrerelease: 
+popularity:
+  star: 28
+  watcher: 2
+  fork: 5
+  release: 25
+  contributor: 5
+  pullRequest: 158
+  issue: 14
+language:
+  Rust: 41754
+totalBytes: 41754
+recent:
+  last30d:
+    since: 2026-10-11
+    release: 3
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 10
+  last60d:
+    since: 2026-09-11
+    release: 3
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 10
+  last90d:
+    since: 2026-08-12
+    release: 3
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 10
+  last180d:
+    since: 2026-05-14
+    release: 3
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 10
+  last360d:
+    since: 2025-11-15
+    release: 3
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 10
+  last720d:
+    since: 2024-11-20
+    release: 3
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 10
+total:
+  release: 25
+  mergedPR: 93
+  openPR: 0
+  closedIssue: 14
+  openIssue: 0
+  commit: 174
+---
+path: /home/runner/.x-repo/github.com/yoannfleurydev/gitweb
+collectedAt: 2026-11-10T07:13:44Z
+loc:
+  Rust:
+    code: 1005
+    comments: 53
+    blanks: 217
+    files: 5
+  Toml:
+    code: 26
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 319
+    blanks: 171
+    files: 4
+total:
+  code: 1048
+  comments: 401
+  blanks: 397
+  files: 10
+---
+
+---
