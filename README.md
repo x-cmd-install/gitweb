@@ -14,12 +14,12 @@ x install gitweb
 
 ## Code insight
 
-Total: **1,031** lines of code across **10** files in the top 5 languages.
+Total: **1,035** lines of code across **11** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 1,005 | 53 | 217 | 5 |
-| Toml | 26 | 0 | 2 | 1 |
+| Toml | 30 | 3 | 2 | 2 |
 | Markdown | 0 | 319 | 171 | 4 |
 
 ## OpenSSF Scorecard
@@ -40,7 +40,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.6.0` (2026-10-27)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-23
 - **Assets in release**: 3
 
 ## Popularity
@@ -49,18 +49,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 93 · **Open PRs**: 3 · **Closed issues**: 14 · **Open issues**: 0 · **Commits**: 174
+- **Releases**: 25 · **Merged PRs**: 97 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 0 · **Commits**: 178
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 2 | 3 | 0 | 0 | 1 |
-| last60d | 2026-09-24 | 3 | 8 | 3 | 0 | 0 | 10 |
-| 90d | 2026-08-25 | 3 | 8 | 3 | 0 | 0 | 10 |
-| last180d | 2026-05-27 | 3 | 8 | 3 | 0 | 0 | 10 |
-| 360d | 2025-11-28 | 3 | 8 | 3 | 0 | 0 | 10 |
-| last720d | 2024-12-03 | 3 | 8 | 3 | 0 | 0 | 10 |
+| 30d | 2026-10-25 | 1 | 6 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-25 | 3 | 12 | 0 | 0 | 0 | 14 |
+| 90d | 2026-08-26 | 3 | 12 | 0 | 0 | 0 | 14 |
+| last180d | 2026-05-28 | 3 | 12 | 0 | 0 | 0 | 14 |
+| 360d | 2025-11-29 | 3 | 12 | 0 | 0 | 0 | 14 |
+| last720d | 2024-12-04 | 3 | 12 | 0 | 0 | 0 | 14 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for gitweb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:27:42Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:00:31Z._
